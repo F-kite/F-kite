@@ -1,5 +1,25 @@
-🧑‍💻 Fullstack dev & AI enthusiast<br>Building web apps. <br>Passionate about integrating AI into real products: RAG systems and LLM-powered bots.<br>🎓 Graduate at KuzSTU (Information Systems & Programming) <br>🏢 Frontend dev — working on AI features for IPTV-provider<br>🔧 Stack: Next.js, TypeScript, Python, Node.js, Docker, Supabase<br>🤖 Interests: RAG, local LLMs, automation, self-hosted AI infrastructure<br>📌 What I've been up to: <br>— AI feature development for an IPTV platform <br>— RAG system for Obsidian knowledge base (n8n + Supabase + LmStudio) <br>— Telegram bots with LLM integrations
+### Hi there, I'm Vitaliy 👋
 
+👨‍💻 **Fullstack Developer & AI Integration Engineer**
+I build end-to-end web applications and integrate Large Language Models (LLMs) into production environments. I focus on creating reliable architectures, from complex database schemas to containerized deployments.
+
+**💡 Core Stack:**
+* **Frontend:** React, Next.js 15, TypeScript, Tailwind CSS, Feature-Sliced Design (FSD)
+* **Backend:** Python (Flask, FastAPI), Node.js, Prisma ORM, PostgreSQL, MySQL, MongoDB
+* **AI & DevOps:** vLLM, OpenAI API, Qwen, Docker, Kubernetes, Keycloak (SSO), CI/CD
+
+**🚀 Highlighted Experience:**
+* 🧠 **Promptica:** Built and deployed an enterprise AI knowledge platform for 100+ employees. Handled everything from the Next.js frontend to deploying a local LLM via vLLM.
+* 🛡️ **Corvandis (HR-Tech Startup):** Co-founder & Fullstack Dev. Architected the backend and a multi-step AI verification pipeline to detect resume fraud.
+* 🏆 **Trendlink (Hackathon Finalist):** Top-10 at "Leaders of Digital Transformation 2026" (Gazprombank Tech). Built a trend-detection service as the sole developer on a 5-person team.
+
+**📫 Let's connect:**
+* Telegram: [@w_ViIl](https://t.me/w_ViIl)
+* Email: ilichevv.work@gmail.com
+
+---
+![@F-kite's DevQuest Language Donut](https://devquest-mu.vercel.app/card/F-kite.svg?template=language-donut&style=glass&theme=paper)
+![@F-kite's DevQuest Contribution Heatmap](https://devquest-mu.vercel.app/card/F-kite.svg?template=heatmap&style=glass&theme=paper&accent=c25b00)
 ![@F-kite's DevQuest Language Donut](https://devquest-mu.vercel.app/card/F-kite.svg?template=language-donut&style=glass&theme=paper)
 
 ![@F-kite's DevQuest Contribution Heatmap](https://devquest-mu.vercel.app/card/F-kite.svg?template=heatmap&style=glass&theme=paper&accent=c25b00)

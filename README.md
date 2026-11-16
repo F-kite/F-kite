@@ -22,7 +22,7 @@ I build end-to-end web applications and integrate Large Language Models (LLMs) i
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://devquest-mu.vercel.app/card/F-kite.svg?template=language-donut&style=glass&theme=paper" alt="Top Languages" width="49%" />
-  <img src="https://devquest-mu.vercel.app/card/F-kite.svg?template=heatmap&style=glass&theme=paper&accent=c25b00" alt="Contribution Heatmap" width="49%" />
+  <img src="https://devquest-mu.vercel.app/card/F-kite.svg?template=language-donut&style=glass&theme=paper" alt="Top Languages" width="50%" />
+  <img src="https://devquest-mu.vercel.app/card/F-kite.svg?template=heatmap&style=glass&theme=paper&accent=c25b00" alt="Contribution Heatmap" width="50%" />
 </div>
 

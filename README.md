@@ -18,9 +18,11 @@ I build end-to-end web applications and integrate Large Language Models (LLMs) i
 * Email: ilichevv.work@gmail.com
 
 ---
-![@F-kite's DevQuest Language Donut](https://devquest-mu.vercel.app/card/F-kite.svg?template=language-donut&style=glass&theme=paper)
-![@F-kite's DevQuest Contribution Heatmap](https://devquest-mu.vercel.app/card/F-kite.svg?template=heatmap&style=glass&theme=paper&accent=c25b00)
-![@F-kite's DevQuest Language Donut](https://devquest-mu.vercel.app/card/F-kite.svg?template=language-donut&style=glass&theme=paper)
 
-![@F-kite's DevQuest Contribution Heatmap](https://devquest-mu.vercel.app/card/F-kite.svg?template=heatmap&style=glass&theme=paper&accent=c25b00)
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://devquest-mu.vercel.app/card/F-kite.svg?template=language-donut&style=glass&theme=paper" alt="Top Languages" width="48%" />
+  <img src="https://devquest-mu.vercel.app/card/F-kite.svg?template=heatmap&style=glass&theme=paper&accent=c25b00" alt="Contribution Heatmap" width="48%" />
+</div>
 
